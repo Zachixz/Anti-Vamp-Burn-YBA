@@ -1,0 +1,6 @@
+
+
+while true do
+  Workspace.Weather.Value = "null"
+  wait(1)
+end
